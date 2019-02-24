@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Daftar Link untuk Redirect
 
 {% assign redirects = site.pages | where_exp: "item", "item.redirect_to != nil" %}
 {% for page in redirects %}

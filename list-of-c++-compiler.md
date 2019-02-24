@@ -1,4 +1,4 @@
 ---
-title: List Of C Compiler
+title: List Of C++ Compiler
 redirect_to: https://en.wikipedia.org/wiki/List_of_compilers#C++_compilers
 ---
